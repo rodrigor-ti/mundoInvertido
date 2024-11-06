@@ -2,35 +2,28 @@
     <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
 </p>
 
--------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+<div align="justify">
+Bem-vindo à Landing Page do Mundo Invertido!
+Este projeto, desenvolvido como parte do curso da Digital Innovation One (DIO), busca recriar a atmosfera enigmática e envolvente da série Stranger Things. Utilizando conceitos essenciais de HTML, CSS e JavaScript, a página é projetada para capturar a tensão e o mistério do Mundo Invertido, oferecendo uma experiência imersiva e visualmente impactante. Explore e sinta-se parte desse universo único!
+</div>
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
-## 💻 Tecnologias
-- HTML
-- CSS
-- JavaScript
+![image](https://raw.githubusercontent.com/rodrigor-ti/mundoInvertido/refs/heads/main/assets/images/project/mundoInvertidonormal.jpg)
 
-## 💬 Assuntos abordados
-- HTML
-    - Estruturação da página 
-    - Semântica
-    - Acessibilidade
-    - Web Scraping
-    - SEO
-- CSS
-    - Posicionamentos
-    - Pseudo-elementos
-    - Pseudo-classes
-    - Flexbox
-    - Animações 
-- JavaScript
-    - Introdução ao JavaScript
-    - Manipulação do DOM
-    - Introdução ao Firebase
-    - Integração com o Firebase
+## 🎮 **Tecnologias Utilizadas**
+
+-   **HTML**: Estruturação do conteúdo e elementos da página.
+-   **CSS**: Design responsivo e estilização usando um tema moderno e minimalista.
+
+## 🕹️ **Funcionalidades Incríveis**
+
+- **Design Responsivo**: A página se adapta a diferentes tamanhos de tela, garantindo uma experiência agradável em dispositivos móveis e desktop.
+- **Animações**: Elementos da página possuem animações para criar uma interação dinâmica e envolvente.
+- **Efeitos de Hover**: Ao passar o mouse sobre certos elementos, animações e efeitos visuais são ativados, proporcionando uma experiência visual rica.
+
+![image](https://raw.githubusercontent.com/rodrigor-ti/mundoInvertido/refs/heads/main/assets/images/project/mundoInvertido.jpg)
+
+##  🚀 **Como acessar**
+<a href="https://rodrigor-ti.github.io/mundoInvertido/" target="_blank">Clique aqui para acessar e se divirta-se!</a>
 
 ## 🎨 Variáveis do Tema CSS
 ```css
@@ -85,23 +78,3 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
 - [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?v=4"/>
-    <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
-    </p>
-</p>

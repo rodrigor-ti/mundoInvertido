@@ -2,6 +2,8 @@
     <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
 </p>
 
+## 🎮 **Landing Page do Mundo Invertido(Stranger Things)**
+
 <div align="justify">
 Bem-vindo à Landing Page do Mundo Invertido!
 Este projeto, desenvolvido como parte do curso da Digital Innovation One (DIO), busca recriar a atmosfera enigmática e envolvente da série Stranger Things. Utilizando conceitos essenciais de HTML, CSS e JavaScript, a página é projetada para capturar a tensão e o mistério do Mundo Invertido, oferecendo uma experiência imersiva e visualmente impactante. Explore e sinta-se parte desse universo único!
